@@ -61,6 +61,7 @@ Description: Python script with shebang, docstring, and main guard
 
 ## Documentation
 
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick reference guide for metadata fields and common tasks
 - **[IMPORT_INSTRUCTIONS.md](IMPORT_INSTRUCTIONS.md)** - Detailed instructions for importing templates into PyCharm
 - **[TEMPLATE_METADATA.md](TEMPLATE_METADATA.md)** - Complete guide to the metadata labeling system
 
